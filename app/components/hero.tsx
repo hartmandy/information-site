@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="container mx-auto flex flex-col lg:flex-row items-center">
         {/* Text Section */}
         <div className="lg:w-1/2 w-full px-6 lg:px-12">
-          <h1 className="text-5xl font-bold text-[#0827A2] mb-4">
+          <h1 className="text-5xl font-bold text-gray-900 mb-4">
             It began with Lots of Love
           </h1>
           <p className="text-2xl text-gray-600 mb-6">
@@ -16,7 +16,7 @@ export default function Hero() {
           </p>
           <a
             href="mailto:academyallkids@gmail.com"
-            className="inline-block bg-[#0827A2] text-white py-3 px-6 rounded-lg hover:bg-[#621114] transition"
+            className="inline-block bg-gray-900 text-white py-3 px-6 rounded-lg hover:bg-[#621114] transition"
           >
             Contact Us
           </a>
