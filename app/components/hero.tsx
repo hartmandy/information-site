@@ -9,10 +9,7 @@ export default function Hero() {
           </h1>
           <p className="text-2xl text-gray-600 mb-6">
             At All Kids Academy we are dedicated to providing love and care to
-            children so they can have a special place to come away from home. We
-            believe that a well planned child-centered environment that
-            encourages play and creative interaction among children and adults
-            is essential to the development of young children.
+            children so they can have a special place to come away from home.
           </p>
           <a
             href="mailto:academyallkids@gmail.com"
